@@ -1,0 +1,15 @@
+C:\Users\xenom\source\BEA\Encrypt\bin\Debug\net7.0\Encrypt.exe
+C:\Users\xenom\source\BEA\Encrypt\bin\Debug\net7.0\Encrypt.deps.json
+C:\Users\xenom\source\BEA\Encrypt\bin\Debug\net7.0\Encrypt.runtimeconfig.json
+C:\Users\xenom\source\BEA\Encrypt\bin\Debug\net7.0\Encrypt.dll
+C:\Users\xenom\source\BEA\Encrypt\bin\Debug\net7.0\Encrypt.pdb
+C:\Users\xenom\source\BEA\Encrypt\obj\Debug\net7.0\Encrypt.csproj.AssemblyReference.cache
+C:\Users\xenom\source\BEA\Encrypt\obj\Debug\net7.0\Encrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xenom\source\BEA\Encrypt\obj\Debug\net7.0\Encrypt.AssemblyInfoInputs.cache
+C:\Users\xenom\source\BEA\Encrypt\obj\Debug\net7.0\Encrypt.AssemblyInfo.cs
+C:\Users\xenom\source\BEA\Encrypt\obj\Debug\net7.0\Encrypt.csproj.CoreCompileInputs.cache
+C:\Users\xenom\source\BEA\Encrypt\obj\Debug\net7.0\Encrypt.dll
+C:\Users\xenom\source\BEA\Encrypt\obj\Debug\net7.0\refint\Encrypt.dll
+C:\Users\xenom\source\BEA\Encrypt\obj\Debug\net7.0\Encrypt.pdb
+C:\Users\xenom\source\BEA\Encrypt\obj\Debug\net7.0\Encrypt.genruntimeconfig.cache
+C:\Users\xenom\source\BEA\Encrypt\obj\Debug\net7.0\ref\Encrypt.dll
